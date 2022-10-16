@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Vala Blog</title>
+    <link>https://blog.vala.ai/tags/</link>
+    <description>Recent content in Tags on Vala Blog</description>
+    <image>
+      <url>https://blog.vala.ai/preview.png</url>
+      <link>https://blog.vala.ai/preview.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Oct 2022 11:33:40 +0200</lastBuildDate><atom:link href="https://blog.vala.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sCrypt</title>
+      <link>https://blog.vala.ai/tags/scrypt/</link>
+      <pubDate>Sun, 16 Oct 2022 11:33:40 +0200</pubDate>
+      
+      <guid>https://blog.vala.ai/tags/scrypt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

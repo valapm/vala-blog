@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vala Blog</title>
+    <link>https://blog.vala.ai/</link>
+    <description>Recent content on Vala Blog</description>
+    <image>
+      <url>https://blog.vala.ai/preview.png</url>
+      <link>https://blog.vala.ai/preview.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Oct 2022 11:33:40 +0200</lastBuildDate><atom:link href="https://blog.vala.ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Arithmetic in Bitcoin Script</title>
+      <link>https://blog.vala.ai/posts/fixmath/</link>
+      <pubDate>Sun, 16 Oct 2022 11:33:40 +0200</pubDate>
+      
+      <guid>https://blog.vala.ai/posts/fixmath/</guid>
+      <description>In Bitcoin, we are limited to basic arithmetic. Everything available to us in Script is addition, subtraction, multiplication, division, and modulus.
+If we want to challenge Ethereum and build Defi applications using automated market makers, compound interest or liquidity mechanisms, this is not enough. Fortunately, there is a way to use what we have available and implement everything we need. We built a library for Vala implementing log, exp, root and pow.</description>
+    </item>
+    
+  </channel>
+</rss>
