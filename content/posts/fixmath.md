@@ -1,6 +1,6 @@
 ---
 title: "Advanced Arithmetic in Bitcoin Script"
-date: 2022-10-16T11:33:40+02:00
+date: 2022-10-16T11:33:40+03:00
 draft: false
 tags: ["sCrypt"]
 cover:
