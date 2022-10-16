@@ -204,7 +204,7 @@ static function pow(int base, int exp) : int {
 
 ## How big are the Scripts?
 
-The exponential function is smallest with only **8kb**. The logarithm comes in with **17kb** while root and pow require **25kb** each as they are using `exp` and `log`. At 50 sats per kilobyte as currently offered by Taal, running the root or pow functions would set you back around 6/100 of a cent.
+The exponential function is smallest with only **8kb**. The logarithm comes in with **17kb** while root and pow require **25kb** each as they are using `exp` and `log`. With 10 sats per kilobyte as currently recommended by Gorillapool (they accept 1 sat / kilobyte), running the root or pow functions would set you back about 1/100 of a cent. For comparison, calculating the natural logarithm on Ethereum requires [at least 585 gas](https://xn--2-umb.com/22/exp-ln/index.html), coming up to 1 cent at current gas costs. 100x cheaper then Ethereum!
 
 ## Vala
 
