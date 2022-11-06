@@ -9,7 +9,17 @@
       <link>https://blog.vala.ai/preview.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 11:33:40 +0300</lastBuildDate><atom:link href="https://blog.vala.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 10:00:00 +0300</lastBuildDate><atom:link href="https://blog.vala.ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling scripts with Merkle Trees</title>
+      <link>https://blog.vala.ai/posts/merkletree/</link>
+      <pubDate>Tue, 01 Nov 2022 10:00:00 +0300</pubDate>
+      
+      <guid>https://blog.vala.ai/posts/merkletree/</guid>
+      <description>A while back this article introduced the concept of minizing on-chain state through the usage of merkle tree validation in Bitcoin Script. At Vala, we use a version of this and now published an independent library for easy usage, validation and updating of merkle trees in Script.
+Each prediction market in Vala has to track a ledger of balances in its current output. Without a mechanism to hide the ledger, this would lead to uncontrollable utxo growth.</description>
+    </item>
+    
     <item>
       <title>Advanced Arithmetic in Bitcoin Script</title>
       <link>https://blog.vala.ai/posts/fixmath/</link>

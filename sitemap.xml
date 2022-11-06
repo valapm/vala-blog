@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.vala.ai/posts/fixmath/</loc>
-    <lastmod>2022-10-16T11:33:40+03:00</lastmod>
-  </url><url>
     <loc>https://blog.vala.ai/posts/</loc>
-    <lastmod>2022-10-16T11:33:40+03:00</lastmod>
+    <lastmod>2022-11-01T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.vala.ai/posts/merkletree/</loc>
+    <lastmod>2022-11-01T10:00:00+03:00</lastmod>
   </url><url>
     <loc>https://blog.vala.ai/tags/scrypt/</loc>
-    <lastmod>2022-10-16T11:33:40+03:00</lastmod>
+    <lastmod>2022-11-01T10:00:00+03:00</lastmod>
   </url><url>
     <loc>https://blog.vala.ai/tags/</loc>
-    <lastmod>2022-10-16T11:33:40+03:00</lastmod>
+    <lastmod>2022-11-01T10:00:00+03:00</lastmod>
   </url><url>
     <loc>https://blog.vala.ai/</loc>
+    <lastmod>2022-11-01T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.vala.ai/posts/fixmath/</loc>
     <lastmod>2022-10-16T11:33:40+03:00</lastmod>
   </url><url>
     <loc>https://blog.vala.ai/categories/</loc>
