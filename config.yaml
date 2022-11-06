@@ -69,16 +69,16 @@ params:
       - name: Tags
         url: tags
 
-  # # home-info mode
-  # homeInfoParams:
-  #   Title: "Vala Blog"
-  #   Content: ""
+  # home-info mode
+  homeInfoParams:
+    Title: "Vala.ai Blog"
+    Content: ""
 
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/valamarkets"
-  #   - name: github
-  #     url: "https://github.com/valapm"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/valamarkets"
+    - name: github
+      url: "https://github.com/valapm"
 
   cover:
     hidden: true # hide everywhere but not in structured data
