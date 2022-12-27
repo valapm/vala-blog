@@ -65,6 +65,6 @@ https://github.com/valapm/bsv-fixmath
 
 ## A critical vulnerability (Now fixed)
 
-Recently, [NikamotoSV](https://twitter.com/NikamotoS) discovered a [critical vulnerability](https://www.getrevue.co/profile/NikamotoSV/issues/your-type-is-not-type-1396111/b83083b8-cce3-4e26-9585-7f334c078102) in the merkle tree validation logic. The exploit even allowed for extraction of all funds out of the markets! The way it worked was smart: When providing a new entry for the ledger, it was possible to provide data that could be interpreted as a new branch in the merkle tree. That way one could spend fake shares by generating a merkle proof for the fake branch.
+Recently, [NikamotoSV](https://twitter.com/NikamotoS) discovered a [critical vulnerability](https://nikamotosv.substack.com/p/your-type-is-not-type) in the merkle tree validation logic. The exploit even allowed for extraction of all funds out of the markets! The way it worked was smart: When providing a new entry for the ledger, it was possible to provide data that could be interpreted as a new branch in the merkle tree. That way one could spend fake shares by generating a merkle proof for the fake branch.
 
 No money was lost and the exploit is fixed in market version 0.6.5.
